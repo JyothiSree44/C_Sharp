@@ -1,0 +1,15 @@
+C:\Users\jyoth\Documents\GitHub\C_Sharp\Day2\Wipro_Day2(1)\bin\Debug\net10.0\Wipro_Day2(1).exe
+C:\Users\jyoth\Documents\GitHub\C_Sharp\Day2\Wipro_Day2(1)\bin\Debug\net10.0\Wipro_Day2(1).deps.json
+C:\Users\jyoth\Documents\GitHub\C_Sharp\Day2\Wipro_Day2(1)\bin\Debug\net10.0\Wipro_Day2(1).runtimeconfig.json
+C:\Users\jyoth\Documents\GitHub\C_Sharp\Day2\Wipro_Day2(1)\bin\Debug\net10.0\Wipro_Day2(1).dll
+C:\Users\jyoth\Documents\GitHub\C_Sharp\Day2\Wipro_Day2(1)\bin\Debug\net10.0\Wipro_Day2(1).pdb
+C:\Users\jyoth\Documents\GitHub\C_Sharp\Day2\Wipro_Day2(1)\obj\Debug\net10.0\Wipro_Day2(1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyoth\Documents\GitHub\C_Sharp\Day2\Wipro_Day2(1)\obj\Debug\net10.0\Wipro_Day2(1).AssemblyInfoInputs.cache
+C:\Users\jyoth\Documents\GitHub\C_Sharp\Day2\Wipro_Day2(1)\obj\Debug\net10.0\Wipro_Day2(1).AssemblyInfo.cs
+C:\Users\jyoth\Documents\GitHub\C_Sharp\Day2\Wipro_Day2(1)\obj\Debug\net10.0\Wipro_Day2(1).csproj.CoreCompileInputs.cache
+C:\Users\jyoth\Documents\GitHub\C_Sharp\Day2\Wipro_Day2(1)\obj\Debug\net10.0\Wipro_Day2(1).sourcelink.json
+C:\Users\jyoth\Documents\GitHub\C_Sharp\Day2\Wipro_Day2(1)\obj\Debug\net10.0\Wipro_Day2(1).dll
+C:\Users\jyoth\Documents\GitHub\C_Sharp\Day2\Wipro_Day2(1)\obj\Debug\net10.0\refint\Wipro_Day2(1).dll
+C:\Users\jyoth\Documents\GitHub\C_Sharp\Day2\Wipro_Day2(1)\obj\Debug\net10.0\Wipro_Day2(1).pdb
+C:\Users\jyoth\Documents\GitHub\C_Sharp\Day2\Wipro_Day2(1)\obj\Debug\net10.0\Wipro_Day2(1).genruntimeconfig.cache
+C:\Users\jyoth\Documents\GitHub\C_Sharp\Day2\Wipro_Day2(1)\obj\Debug\net10.0\ref\Wipro_Day2(1).dll
