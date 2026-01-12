@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jyoth\\source\\repos\\Wipro_Day1(1)\\",
+  "WorkspaceRootPath": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day1\\Wipro_Day1(1)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCC264B3-DA10-4916-9133-2DCC36C143C1}|Wipro_Day1(1).csproj|c:\\users\\jyoth\\source\\repos\\wipro_day1(1)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCC264B3-DA10-4916-9133-2DCC36C143C1}|Wipro_Day1(1).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61FBA65B-0C62-67C1-ED5C-3EA02F376837}|Wipro_Day1(1).csproj|c:\\users\\jyoth\\onedrive\\documents\\wipro_ms_dynamics_c#\\c_sharp\\day1\\wipro_day1(1)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FBA65B-0C62-67C1-ED5C-3EA02F376837}|Wipro_Day1(1).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jyoth\\source\\repos\\Wipro_Day1(1)\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day1\\Wipro_Day1(1)\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\jyoth\\source\\repos\\Wipro_Day1(1)\\Program.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day1\\Wipro_Day1(1)\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

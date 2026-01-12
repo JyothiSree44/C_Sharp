@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jyoth\\OneDrive\\Documents\\GitHub\\C_Sharp\\Day3\\Wipro_Day3(1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD957F7D-BE0A-7768-7887-CC1CD8545D0D}|..\\Wipro_Day3(2)_BankAudit\\Wipro_Day3(2)_BankAudit.csproj|c:\\users\\jyoth\\onedrive\\documents\\github\\c_sharp\\day3\\wipro_day3(2)_bankaudit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F49270-9349-7BF3-0ED6-1D2680B6A27A}|Wipro_Day3(1).csproj|c:\\users\\jyoth\\onedrive\\documents\\github\\c_sharp\\day3\\wipro_day3(1)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F49270-9349-7BF3-0ED6-1D2680B6A27A}|Wipro_Day3(1).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD957F7D-BE0A-7768-7887-CC1CD8545D0D}|..\\Wipro_Day3(2)_BankAudit\\Wipro_Day3(2)_BankAudit.csproj|c:\\users\\jyoth\\onedrive\\documents\\github\\c_sharp\\day3\\wipro_day3(2)_bankaudit\\corporateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F49270-9349-7BF3-0ED6-1D2680B6A27A}|Wipro_Day3(1).csproj|c:\\users\\jyoth\\onedrive\\documents\\github\\c_sharp\\day3\\wipro_day3(1)\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F49270-9349-7BF3-0ED6-1D2680B6A27A}|Wipro_Day3(1).csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F49270-9349-7BF3-0ED6-1D2680B6A27A}|Wipro_Day3(1).csproj|c:\\users\\jyoth\\onedrive\\documents\\github\\c_sharp\\day3\\wipro_day3(1)\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F49270-9349-7BF3-0ED6-1D2680B6A27A}|Wipro_Day3(1).csproj|solutionrelative:savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\GitHub\\C_Sharp\\Day3\\Wipro_Day3(1)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\GitHub\\C_Sharp\\Day3\\Wipro_Day3(1)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T03:56:13.122Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\GitHub\\C_Sharp\\Day3\\Wipro_Day3(2)_BankAudit\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Wipro_Day3(2)_BankAudit\\Program.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\GitHub\\C_Sharp\\Day3\\Wipro_Day3(2)_BankAudit\\Program.cs",
+              "RelativeToolTip": "..\\Wipro_Day3(2)_BankAudit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T11:03:56.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CorporateAccount.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\GitHub\\C_Sharp\\Day3\\Wipro_Day3(2)_BankAudit\\CorporateAccount.cs",
+              "RelativeDocumentMoniker": "..\\Wipro_Day3(2)_BankAudit\\CorporateAccount.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\GitHub\\C_Sharp\\Day3\\Wipro_Day3(2)_BankAudit\\CorporateAccount.cs",
+              "RelativeToolTip": "..\\Wipro_Day3(2)_BankAudit\\CorporateAccount.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T10:23:17.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\GitHub\\C_Sharp\\Day3\\Wipro_Day3(1)\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\GitHub\\C_Sharp\\Day3\\Wipro_Day3(1)\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T04:44:49.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\GitHub\\C_Sharp\\Day3\\Wipro_Day3(1)\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\GitHub\\C_Sharp\\Day3\\Wipro_Day3(1)\\SavingsAccount.cs",
+              "RelativeToolTip": "SavingsAccount.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T04:55:17.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

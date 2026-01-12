@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Wipro_Day3(2)_BankAudit/1.0.0": {
+        "dependencies": {
+          "Wipro_Day3(1)": "1.0.0"
+        },
+        "runtime": {
+          "Wipro_Day3(2)_BankAudit.dll": {}
+        }
+      },
+      "Wipro_Day3(1)/1.0.0": {
+        "runtime": {
+          "Wipro_Day3(1).dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wipro_Day3(2)_BankAudit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Wipro_Day3(1)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

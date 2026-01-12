@@ -1,0 +1,7 @@
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day4\Wipro_Day4(1)\bin\Debug\Wipro_Day4(1).exe.config
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day4\Wipro_Day4(1)\bin\Debug\Wipro_Day4(1).exe
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day4\Wipro_Day4(1)\bin\Debug\Wipro_Day4(1).pdb
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day4\Wipro_Day4(1)\obj\Debug\Wipro_Day4(1).csproj.AssemblyReference.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day4\Wipro_Day4(1)\obj\Debug\Wipro_Day4(1).csproj.CoreCompileInputs.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day4\Wipro_Day4(1)\obj\Debug\Wipro_Day4(1).exe
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day4\Wipro_Day4(1)\obj\Debug\Wipro_Day4(1).pdb

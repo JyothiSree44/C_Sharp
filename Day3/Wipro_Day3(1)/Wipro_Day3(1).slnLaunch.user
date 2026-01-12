@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\Wipro_Day3(2)_BankAudit\\Wipro_Day3(2)_BankAudit.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Wipro_Day3(1).csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
