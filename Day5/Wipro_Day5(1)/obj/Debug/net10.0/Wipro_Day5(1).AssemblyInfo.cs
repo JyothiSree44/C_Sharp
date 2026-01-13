@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Wipro_Day5(1)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb67b0b942bce4fcf0044954f6434dc409c0c964")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20082e5bd26b219a60796432640f2dc2484d89f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Wipro_Day5(1)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wipro_Day5(1)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
