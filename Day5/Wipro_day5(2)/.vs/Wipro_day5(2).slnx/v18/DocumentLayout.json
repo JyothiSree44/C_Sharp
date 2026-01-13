@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day5\\Wipro_day5(2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ED7829-9586-55AF-7594-89CCCFED69E6}|Wipro_day5(2).csproj|c:\\users\\jyoth\\onedrive\\documents\\wipro_ms_dynamics_c#\\c_sharp\\day5\\wipro_day5(2)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7ED7829-9586-55AF-7594-89CCCFED69E6}|Wipro_day5(2).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ED7829-9586-55AF-7594-89CCCFED69E6}|Wipro_day5(2).csproj|c:\\users\\jyoth\\onedrive\\documents\\wipro_ms_dynamics_c#\\c_sharp\\day5\\wipro_day5(2)\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7ED7829-9586-55AF-7594-89CCCFED69E6}|Wipro_day5(2).csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ED7829-9586-55AF-7594-89CCCFED69E6}|Wipro_day5(2).csproj|c:\\users\\jyoth\\onedrive\\documents\\wipro_ms_dynamics_c#\\c_sharp\\day5\\wipro_day5(2)\\invalidageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7ED7829-9586-55AF-7594-89CCCFED69E6}|Wipro_day5(2).csproj|solutionrelative:invalidageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ED7829-9586-55AF-7594-89CCCFED69E6}|Wipro_day5(2).csproj|c:\\users\\jyoth\\onedrive\\documents\\wipro_ms_dynamics_c#\\c_sharp\\day5\\wipro_day5(2)\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7ED7829-9586-55AF-7594-89CCCFED69E6}|Wipro_day5(2).csproj|solutionrelative:userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ED7829-9586-55AF-7594-89CCCFED69E6}|Wipro_day5(2).csproj|c:\\users\\jyoth\\onedrive\\documents\\wipro_ms_dynamics_c#\\c_sharp\\day5\\wipro_day5(2)\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7ED7829-9586-55AF-7594-89CCCFED69E6}|Wipro_day5(2).csproj|solutionrelative:customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvalidAgeException.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day5\\Wipro_day5(2)\\InvalidAgeException.cs",
+              "RelativeDocumentMoniker": "InvalidAgeException.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day5\\Wipro_day5(2)\\InvalidAgeException.cs",
+              "RelativeToolTip": "InvalidAgeException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:48:38.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day5\\Wipro_day5(2)\\UserService.cs",
+              "RelativeDocumentMoniker": "UserService.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day5\\Wipro_day5(2)\\UserService.cs",
+              "RelativeToolTip": "UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:42:56.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day5\\Wipro_day5(2)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day5\\Wipro_day5(2)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwCYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:29:49.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day5\\Wipro_day5(2)\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day5\\Wipro_day5(2)\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:41:41.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day5\\Wipro_day5(2)\\CustomExceptions.cs",
+              "RelativeDocumentMoniker": "CustomExceptions.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day5\\Wipro_day5(2)\\CustomExceptions.cs",
+              "RelativeToolTip": "CustomExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:39:12.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
