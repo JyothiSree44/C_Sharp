@@ -1,0 +1,15 @@
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(4)\bin\Debug\net10.0\Wipro_Day10(4).exe
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(4)\bin\Debug\net10.0\Wipro_Day10(4).deps.json
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(4)\bin\Debug\net10.0\Wipro_Day10(4).runtimeconfig.json
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(4)\bin\Debug\net10.0\Wipro_Day10(4).dll
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(4)\bin\Debug\net10.0\Wipro_Day10(4).pdb
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(4)\obj\Debug\net10.0\Wipro_Day10(4).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(4)\obj\Debug\net10.0\Wipro_Day10(4).AssemblyInfoInputs.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(4)\obj\Debug\net10.0\Wipro_Day10(4).AssemblyInfo.cs
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(4)\obj\Debug\net10.0\Wipro_Day10(4).csproj.CoreCompileInputs.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(4)\obj\Debug\net10.0\Wipro_Day10(4).sourcelink.json
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(4)\obj\Debug\net10.0\Wipro_Day10(4).dll
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(4)\obj\Debug\net10.0\refint\Wipro_Day10(4).dll
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(4)\obj\Debug\net10.0\Wipro_Day10(4).pdb
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(4)\obj\Debug\net10.0\Wipro_Day10(4).genruntimeconfig.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(4)\obj\Debug\net10.0\ref\Wipro_Day10(4).dll

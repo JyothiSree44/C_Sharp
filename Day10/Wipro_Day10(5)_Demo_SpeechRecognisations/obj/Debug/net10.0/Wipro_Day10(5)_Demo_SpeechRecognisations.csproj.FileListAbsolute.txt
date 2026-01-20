@@ -1,0 +1,5 @@
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(5)_Demo_SpeechRecognisations\obj\Debug\net10.0\Wipro_Day10(5)_Demo_SpeechRecognisations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(5)_Demo_SpeechRecognisations\obj\Debug\net10.0\Wipro_Day10(5)_Demo_SpeechRecognisations.AssemblyInfoInputs.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(5)_Demo_SpeechRecognisations\obj\Debug\net10.0\Wipro_Day10(5)_Demo_SpeechRecognisations.AssemblyInfo.cs
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(5)_Demo_SpeechRecognisations\obj\Debug\net10.0\Wipro_Day10(5)_Demo_SpeechRecognisations.csproj.CoreCompileInputs.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(5)_Demo_SpeechRecognisations\obj\Debug\net10.0\Wipro_Day10(5)_Demo_SpeechRecognisations.sourcelink.json

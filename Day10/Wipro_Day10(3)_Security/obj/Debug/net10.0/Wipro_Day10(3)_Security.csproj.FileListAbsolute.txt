@@ -1,0 +1,15 @@
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(3)_Security\bin\Debug\net10.0\Wipro_Day10(3)_Security.exe
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(3)_Security\bin\Debug\net10.0\Wipro_Day10(3)_Security.deps.json
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(3)_Security\bin\Debug\net10.0\Wipro_Day10(3)_Security.runtimeconfig.json
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(3)_Security\bin\Debug\net10.0\Wipro_Day10(3)_Security.dll
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(3)_Security\bin\Debug\net10.0\Wipro_Day10(3)_Security.pdb
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(3)_Security\obj\Debug\net10.0\Wipro_Day10(3)_Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(3)_Security\obj\Debug\net10.0\Wipro_Day10(3)_Security.AssemblyInfoInputs.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(3)_Security\obj\Debug\net10.0\Wipro_Day10(3)_Security.AssemblyInfo.cs
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(3)_Security\obj\Debug\net10.0\Wipro_Day10(3)_Security.csproj.CoreCompileInputs.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(3)_Security\obj\Debug\net10.0\Wipro_Day10(3)_Security.sourcelink.json
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(3)_Security\obj\Debug\net10.0\Wipro_Day10(3)_Security.dll
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(3)_Security\obj\Debug\net10.0\refint\Wipro_Day10(3)_Security.dll
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(3)_Security\obj\Debug\net10.0\Wipro_Day10(3)_Security.pdb
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(3)_Security\obj\Debug\net10.0\Wipro_Day10(3)_Security.genruntimeconfig.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(3)_Security\obj\Debug\net10.0\ref\Wipro_Day10(3)_Security.dll
