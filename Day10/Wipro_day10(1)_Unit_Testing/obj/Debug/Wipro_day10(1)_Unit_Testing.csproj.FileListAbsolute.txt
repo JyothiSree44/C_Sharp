@@ -1,0 +1,7 @@
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_day10(1)_Unit_Testing\bin\Debug\Wipro_day10(1)_Unit_Testing.exe.config
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_day10(1)_Unit_Testing\bin\Debug\Wipro_day10(1)_Unit_Testing.exe
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_day10(1)_Unit_Testing\bin\Debug\Wipro_day10(1)_Unit_Testing.pdb
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_day10(1)_Unit_Testing\obj\Debug\Wipro_day10(1)_Unit_Testing.csproj.AssemblyReference.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_day10(1)_Unit_Testing\obj\Debug\Wipro_day10(1)_Unit_Testing.csproj.CoreCompileInputs.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_day10(1)_Unit_Testing\obj\Debug\Wipro_day10(1)_Unit_Testing.exe
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_day10(1)_Unit_Testing\obj\Debug\Wipro_day10(1)_Unit_Testing.pdb

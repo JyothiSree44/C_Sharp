@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day6\\Wipro_Day6(3)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{007F786C-E79A-7499-352C-1038AC12F0F8}|Wipro_Day6(3).csproj|c:\\users\\jyoth\\onedrive\\documents\\wipro_ms_dynamics_c#\\c_sharp\\day6\\wipro_day6(3)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007F786C-E79A-7499-352C-1038AC12F0F8}|Wipro_Day6(3).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{007F786C-E79A-7499-352C-1038AC12F0F8}|Wipro_Day6(3).csproj|c:\\users\\jyoth\\onedrive\\documents\\wipro_ms_dynamics_c#\\c_sharp\\day6\\wipro_day6(3)\\stack_queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007F786C-E79A-7499-352C-1038AC12F0F8}|Wipro_Day6(3).csproj|solutionrelative:stack_queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007F786C-E79A-7499-352C-1038AC12F0F8}|Wipro_Day6(3).csproj|c:\\users\\jyoth\\onedrive\\documents\\wipro_ms_dynamics_c#\\c_sharp\\day6\\wipro_day6(3)\\lambda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007F786C-E79A-7499-352C-1038AC12F0F8}|Wipro_Day6(3).csproj|solutionrelative:lambda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007F786C-E79A-7499-352C-1038AC12F0F8}|Wipro_Day6(3).csproj|c:\\users\\jyoth\\onedrive\\documents\\wipro_ms_dynamics_c#\\c_sharp\\day6\\wipro_day6(3)\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007F786C-E79A-7499-352C-1038AC12F0F8}|Wipro_Day6(3).csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,18 +25,40 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day6\\Wipro_Day6(3)\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day6\\Wipro_Day6(3)\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T07:58:43.626Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day6\\Wipro_Day6(3)\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day6\\Wipro_Day6(3)\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Stack_queue.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day6\\Wipro_Day6(3)\\Stack_queue.cs",
+              "RelativeDocumentMoniker": "Stack_queue.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day6\\Wipro_Day6(3)\\Stack_queue.cs",
+              "RelativeToolTip": "Stack_queue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T07:57:28.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lambda.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day6\\Wipro_Day6(3)\\Lambda.cs",
+              "RelativeDocumentMoniker": "Lambda.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day6\\Wipro_Day6(3)\\Lambda.cs",
+              "RelativeToolTip": "Lambda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T05:08:48.72Z",
               "EditorCaption": ""
