@@ -1,0 +1,35 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_day10_SQL_Basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D36EE414-925C-74F5-F09A-042A532D8473}|Wipro_day10_SQL_Basics\\Wipro_day10_SQL_Basics.ssmssqlproj|C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_day10_SQL_Basics\\Wipro_day10_SQL_Basics\\SQL_Basic.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{D36EE414-925C-74F5-F09A-042A532D8473}|Wipro_day10_SQL_Basics\\Wipro_day10_SQL_Basics.ssmssqlproj|solutionrelative:Wipro_day10_SQL_Basics\\SQL_Basic.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQL_Basic.sql - not connected",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_day10_SQL_Basics\\Wipro_day10_SQL_Basics\\SQL_Basic.sql",
+              "RelativeDocumentMoniker": "Wipro_day10_SQL_Basics\\SQL_Basic.sql",
+              "ToolTip": "SQL_Basic.sql - not connected",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-20T06:03:20.203Z",
+              "EditorCaption": " - not connected"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
