@@ -1,0 +1,7 @@
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day12\Wipro_Day12_SecureUserApp\bin\Debug\Wipro_Day12_SecureUserApp.exe.config
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day12\Wipro_Day12_SecureUserApp\bin\Debug\Wipro_Day12_SecureUserApp.exe
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day12\Wipro_Day12_SecureUserApp\bin\Debug\Wipro_Day12_SecureUserApp.pdb
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day12\Wipro_Day12_SecureUserApp\obj\Debug\Wipro_Day12_SecureUserApp.csproj.AssemblyReference.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day12\Wipro_Day12_SecureUserApp\obj\Debug\Wipro_Day12_SecureUserApp.csproj.CoreCompileInputs.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day12\Wipro_Day12_SecureUserApp\obj\Debug\Wipro_Day12_SecureUserApp.exe
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day12\Wipro_Day12_SecureUserApp\obj\Debug\Wipro_Day12_SecureUserApp.pdb
