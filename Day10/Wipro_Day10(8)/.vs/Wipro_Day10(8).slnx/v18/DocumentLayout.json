@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8).csproj|c:\\users\\jyoth\\onedrive\\documents\\wipro_ms_dynamics_c#\\c_sharp\\day10\\wipro_day10(8)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8)_SolidAssignment.csproj|c:\\users\\jyoth\\onedrive\\documents\\wipro_ms_dynamics_c#\\c_sharp\\day10\\wipro_day10(8)\\services\\reportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8)_SolidAssignment.csproj|solutionrelative:services\\reportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8)_SolidAssignment.csproj|c:\\users\\jyoth\\onedrive\\documents\\wipro_ms_dynamics_c#\\c_sharp\\day10\\wipro_day10(8)\\interfaces\\iexportable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8)_SolidAssignment.csproj|solutionrelative:interfaces\\iexportable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8)_SolidAssignment.csproj|c:\\users\\jyoth\\onedrive\\documents\\wipro_ms_dynamics_c#\\c_sharp\\day10\\wipro_day10(8)\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8)_SolidAssignment.csproj|solutionrelative:services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8)_SolidAssignment.csproj|c:\\users\\jyoth\\onedrive\\documents\\wipro_ms_dynamics_c#\\c_sharp\\day10\\wipro_day10(8)\\services\\reportsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8)_SolidAssignment.csproj|solutionrelative:services\\reportsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8)_SolidAssignment.csproj|c:\\users\\jyoth\\onedrive\\documents\\wipro_ms_dynamics_c#\\c_sharp\\day10\\wipro_day10(8)\\services\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8)_SolidAssignment.csproj|solutionrelative:services\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8)_SolidAssignment.csproj|c:\\users\\jyoth\\onedrive\\documents\\wipro_ms_dynamics_c#\\c_sharp\\day10\\wipro_day10(8)\\fomatters\\pdfformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8)_SolidAssignment.csproj|solutionrelative:fomatters\\pdfformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8)_SolidAssignment.csproj|c:\\users\\jyoth\\onedrive\\documents\\wipro_ms_dynamics_c#\\c_sharp\\day10\\wipro_day10(8)\\fomatters\\excelformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8)_SolidAssignment.csproj|solutionrelative:fomatters\\excelformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8)_SolidAssignment.csproj|c:\\users\\jyoth\\onedrive\\documents\\wipro_ms_dynamics_c#\\c_sharp\\day10\\wipro_day10(8)\\interfaces\\ireportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8)_SolidAssignment.csproj|solutionrelative:interfaces\\ireportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8)_SolidAssignment.csproj|c:\\users\\jyoth\\onedrive\\documents\\wipro_ms_dynamics_c#\\c_sharp\\day10\\wipro_day10(8)\\interfaces\\ireport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8)_SolidAssignment.csproj|solutionrelative:interfaces\\ireport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8)_SolidAssignment.csproj|c:\\users\\jyoth\\onedrive\\documents\\wipro_ms_dynamics_c#\\c_sharp\\day10\\wipro_day10(8)\\interfaces\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8)_SolidAssignment.csproj|solutionrelative:interfaces\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8)_SolidAssignment.csproj|c:\\users\\jyoth\\onedrive\\documents\\wipro_ms_dynamics_c#\\c_sharp\\day10\\wipro_day10(8)\\models\\inventoryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8)_SolidAssignment.csproj|solutionrelative:models\\inventoryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8)_SolidAssignment.csproj|c:\\users\\jyoth\\onedrive\\documents\\wipro_ms_dynamics_c#\\c_sharp\\day10\\wipro_day10(8)\\models\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58E4E90-DB18-484B-B7E6-B74D1B663EEA}|Wipro_Day10(8)_SolidAssignment.csproj|solutionrelative:models\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IExportable.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Interfaces\\IExportable.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IExportable.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Interfaces\\IExportable.cs",
+              "RelativeToolTip": "Interfaces\\IExportable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:21:18.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Services\\ReportFormatter.cs",
+              "RelativeDocumentMoniker": "Services\\ReportFormatter.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Services\\ReportFormatter.cs",
+              "RelativeToolTip": "Services\\ReportFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:30:06.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:14:18.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Services\\ReportService.cs",
+              "RelativeToolTip": "Services\\ReportService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:31:06.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Services\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "Services\\ReportGenerator.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Services\\ReportGenerator.cs",
+              "RelativeToolTip": "Services\\ReportGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:26:34.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportSaver.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Services\\ReportSaver.cs",
+              "RelativeDocumentMoniker": "Services\\ReportSaver.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Services\\ReportSaver.cs",
+              "RelativeToolTip": "Services\\ReportSaver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:27:21.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PdfFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Fomatters\\PdfFormatter.cs",
+              "RelativeDocumentMoniker": "Fomatters\\PdfFormatter.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Fomatters\\PdfFormatter.cs",
+              "RelativeToolTip": "Fomatters\\PdfFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:24:33.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExcelFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Fomatters\\ExcelFormatter.cs",
+              "RelativeDocumentMoniker": "Fomatters\\ExcelFormatter.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Fomatters\\ExcelFormatter.cs",
+              "RelativeToolTip": "Fomatters\\ExcelFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:25:24.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IReportFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Interfaces\\IReportFormatter.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IReportFormatter.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Interfaces\\IReportFormatter.cs",
+              "RelativeToolTip": "Interfaces\\IReportFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:20:17.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IReport.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Interfaces\\IReport.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IReport.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Interfaces\\IReport.cs",
+              "RelativeToolTip": "Interfaces\\IReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:19:32.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Interfaces\\IPrintable.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPrintable.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Interfaces\\IPrintable.cs",
+              "RelativeToolTip": "Interfaces\\IPrintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:20:50.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InventoryReport.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Models\\InventoryReport.cs",
+              "RelativeDocumentMoniker": "Models\\InventoryReport.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Models\\InventoryReport.cs",
+              "RelativeToolTip": "Models\\InventoryReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:23:15.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SalesReport.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Models\\SalesReport.cs",
+              "RelativeDocumentMoniker": "Models\\SalesReport.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day10\\Wipro_Day10(8)\\Models\\SalesReport.cs",
+              "RelativeToolTip": "Models\\SalesReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:22:21.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

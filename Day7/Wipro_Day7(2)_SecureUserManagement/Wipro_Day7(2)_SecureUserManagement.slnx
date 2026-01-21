@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="Wipro_Day7(2)_SecureUserManagement.csproj" />
+  <Project Path="../Wipro_Day7(3)_SecureUserManagement.Tests/Wipro_Day7_3_SecureUserManagement.Tests.csproj" Id="e0015559-b86e-4aeb-bfbe-ff0c07c093f5" />
+  <Project Path="Wipro_Day7_2_SecureUserManagement.csproj" />
 </Solution>

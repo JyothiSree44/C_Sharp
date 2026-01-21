@@ -1,0 +1,7 @@
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(7)_DesignPatterns\bin\Debug\Wipro_Day10(7)_DesignPatterns.exe.config
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(7)_DesignPatterns\bin\Debug\Wipro_Day10(7)_DesignPatterns.exe
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(7)_DesignPatterns\bin\Debug\Wipro_Day10(7)_DesignPatterns.pdb
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(7)_DesignPatterns\obj\Debug\Wipro_Day10(7)_DesignPatterns.csproj.AssemblyReference.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(7)_DesignPatterns\obj\Debug\Wipro_Day10(7)_DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(7)_DesignPatterns\obj\Debug\Wipro_Day10(7)_DesignPatterns.exe
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(7)_DesignPatterns\obj\Debug\Wipro_Day10(7)_DesignPatterns.pdb

@@ -1,0 +1,7 @@
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(8)\bin\Debug\Wipro_Day10(8).exe.config
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(8)\bin\Debug\Wipro_Day10(8).exe
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(8)\bin\Debug\Wipro_Day10(8).pdb
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(8)\obj\Debug\Wipro_Day10(8)_SolidAssignment.csproj.AssemblyReference.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(8)\obj\Debug\Wipro_Day10(8)_SolidAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(8)\obj\Debug\Wipro_Day10(8).exe
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day10\Wipro_Day10(8)\obj\Debug\Wipro_Day10(8).pdb

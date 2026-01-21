@@ -1,0 +1,6 @@
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day7\Wipro_Day7(3)_SecureUserManagement.Tests\obj\Debug\net10.0\Wipro_Day7_3_SecureUserManagement.Tests.csproj.AssemblyReference.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day7\Wipro_Day7(3)_SecureUserManagement.Tests\obj\Debug\net10.0\Wipro_Day7_3_SecureUserManagement.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day7\Wipro_Day7(3)_SecureUserManagement.Tests\obj\Debug\net10.0\Wipro_Day7_3_SecureUserManagement.Tests.AssemblyInfoInputs.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day7\Wipro_Day7(3)_SecureUserManagement.Tests\obj\Debug\net10.0\Wipro_Day7_3_SecureUserManagement.Tests.AssemblyInfo.cs
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day7\Wipro_Day7(3)_SecureUserManagement.Tests\obj\Debug\net10.0\Wipro_Day7_3_SecureUserManagement.Tests.csproj.CoreCompileInputs.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\C_Sharp\Day7\Wipro_Day7(3)_SecureUserManagement.Tests\obj\Debug\net10.0\Wipro_Day7_3_SecureUserManagement.Tests.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Wipro_Day7(2)_SecureUserManagement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b197d4f6bf19571a0676a8eb6cec4853209f73e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b43ef2f9b5543a85c43d0d9b483b92eb17e8b414")]
 [assembly: System.Reflection.AssemblyProductAttribute("Wipro_Day7(2)_SecureUserManagement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wipro_Day7(2)_SecureUserManagement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
