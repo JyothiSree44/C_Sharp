@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day7\\Wipro_Day7(2)_SecureUserManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{114515C7-8F61-418E-B6CA-C72B62D9D34A}|Wipro_Day7(2)_SecureUserManagement.csproj|c:\\users\\jyoth\\onedrive\\documents\\wipro_ms_dynamics_c#\\c_sharp\\day7\\wipro_day7(2)_secureusermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114515C7-8F61-418E-B6CA-C72B62D9D34A}|Wipro_Day7(2)_SecureUserManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day7\\Wipro_Day7(2)_SecureUserManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jyoth\\OneDrive\\Documents\\Wipro_MS_Dynamics_C#\\C_Sharp\\Day7\\Wipro_Day7(2)_SecureUserManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T04:15:59.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
